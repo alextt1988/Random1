@@ -2,7 +2,7 @@
 
 ## Build instructions
 
-copy the file "random1.sh" from git repository and execute the the script using the command "sh random1.sh"
+Clone the repository from git and execute the the script using the command "sh random1.sh"
 
 ## Usage
 
